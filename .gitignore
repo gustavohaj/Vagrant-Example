@@ -12,6 +12,10 @@
 *.rar
 
 # key
-key
-.key
+id_*
 
+#vagrant
+.vagrant
+
+#file
+files/
